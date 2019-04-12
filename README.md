@@ -1,6 +1,11 @@
 # KMF IP-Block Remover
 ### 避開[考滿分](http://www.kmf.com/)線上學習網站的海外IP禁止問題!
 程式碼都給你了，沒有藉口不念TOEFL和GRE或GMAT了吧？
+```javascript
+document.getElementsByClassName("shield-box")[0].outerHTML = "";
+document.getElementsByClassName("practice-container")[0].classList.remove("blur");
+```
+如果看不懂，或者懶得不斷在console輸入程式碼，沒關係！我們提供**一鍵外掛**！
 ## 安裝方法
 - 開啟Chrome的 **擴充功能** 選項  
 ![image1](https://github.com/RainBoltz/kmf_ipblock_remover/blob/master/extension_explain_1.png)
