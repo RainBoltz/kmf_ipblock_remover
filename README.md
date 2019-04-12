@@ -5,6 +5,7 @@
 - 開啟Chrome的 **擴充功能** 選項
 ![image1](https://github.com/RainBoltz/kmf_ipblock_remover/blob/master/extension_explain_1.png)
 
+- 點擊開啟 **開發人員模式**
 ![image2](https://github.com/RainBoltz/kmf_ipblock_remover/blob/master/extension_explain_2.png)
 
 - 選擇 **載入未封裝項目**，選擇 **kmf_ipblocker_remover 資料夾**
