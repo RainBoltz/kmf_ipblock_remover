@@ -2,7 +2,7 @@
 ### 避開[考滿分](http://www.kmf.com/)線上學習網站的海外IP禁止問題!
 程式碼都給你了，沒有藉口不念TOEFL和GRE或GMAT了吧？
 ## 安裝方法
-- 開啟Chrome的 **擴充功能** 選項
+- 開啟Chrome的 **擴充功能** 選項  
 ![image1](https://github.com/RainBoltz/kmf_ipblock_remover/blob/master/extension_explain_1.png)
 
 - 點擊開啟 **開發人員模式**
